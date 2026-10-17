@@ -15,7 +15,7 @@
 
 /* Body Header Styles */
 html {
-   background-color: SlateGrey;
+   background-color: Sienna;
 }
 body {
    box-shadow: 10px 0px 50px rgb(51, 51, 51),  -10px 0px 50px rgb(51, 51, 51);
@@ -35,13 +35,13 @@ body > header nav.tabs li {
 
 
 body > header nav.tabs li:hover {
-   background-color: SteelBlue;
+   background-color: sandybrown;
 }
 
 /* Left Section Styles */
 
 section#left nav.vertical {
-   border: 1px solid rgb(20, 167, 170);
+   border: 1px wheat;
    border-radius: 25px;
 }
 
@@ -52,10 +52,10 @@ section#left nav.vertical h1 {
 /* Center Article Styles */
 
 section#center article {
-   background: radial-gradient(white 30%, rgb(151, 151, 151));
-   border: 1px solid rgb(151, 151, 151);
+   background: radial-gradient(white 100%, rgb(151, 151, 151));
+   border: 1px solid sienna;
    border-radius: 50px;
-   box-shadow: 10px 10px 20px rgb(51, 51, 51);
+   box-shadow: 10px 10px 20px 
 }
 
 /* Blockquote Styles */
@@ -63,7 +63,7 @@ section#center article {
 blockquote {
    background: url(sf_speech.png) no-repeat;
    background-size: 100% 100%;
-   filter: drop-shadow(5px 5px 10px rgb(51, 51, 51));
+   filter: drop-shadow(5px 5px 10px sienna);
 }
 
 cite img {
