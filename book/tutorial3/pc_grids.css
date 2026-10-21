@@ -29,7 +29,7 @@ body > header {
 	grid-column: 1/-1;
 }
 body > article {grid-area: intro;}
-body > aside {grid-area: faq:}
+body > aside {grid-area: faq;}
 body > section {grid-area: articles;}
 body > footer {grid-area: footer;}
 
@@ -39,7 +39,7 @@ section {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 }
-section > h1, h2 {
+section > h1 {
 	grid-area: 1/1/2/3;
 }
 body > * 
