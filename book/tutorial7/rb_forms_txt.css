@@ -1,0 +1,42 @@
+/*
+   New Perspectives on HTML and CSS, 7th Edition
+   Tutorial 7
+   Tutorial Case
+
+   Survey Forms Style Sheet
+   Author: Daniel Lopez
+   Date:11/10/2026   
+
+   Filename:         rb_forms.css
+
+*/
+
+/* Form Layout Styles */
+div.formRow {
+	display: flex;
+	flex-flow: row wrap;
+	margin: 7px 0px;
+}
+div.formRow > * {
+	flex: 1 1 150px;
+}
+
+
+/* Legend Styles */
+
+
+
+/* Text Area Styles */
+
+
+
+/* Spinner Styles */
+
+
+
+/* Form Button Styles */
+
+
+
+/* Validation Styles */
+
